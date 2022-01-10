@@ -1,0 +1,72 @@
+.bg-dark {
+    background-color: #1190eb; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, #1190eb , rgb(44, 4, 97));
+}
+
+#city{
+    width: 100%;
+    padding: 0px;
+}
+
+.btn{
+    padding: 2px;
+    margin-top: 7px;
+    width: 100%
+}
+.list-group-item{
+    line-height: 0.5;
+    border: none;
+}
+
+.btn-light{
+    background-color:	#D3D3D3;
+}
+
+.card{
+    background-color: #023b70!important;
+}
+
+.card-body{
+    flex:auto
+}
+
+img.card-body.text-center{
+    height:150px;
+}
+
+.border-bottom {
+    border-bottom: 2px solid #47494a!important;
+}
+
+button.d-flex.w-100.btn-light.border.p-2 {
+    margin-top: 3px;
+}
+
+span.card-body.text-center {
+    line-height: 0.3;
+}
+
+button.d-flex.w-100.btn-light.border.p-2 {
+    margin-top: 3px;
+}
+
+div#five-day-forecast {
+    margin-left: 5px;
+}
+
+span.severe{
+    padding: 3px;
+    background-color: red;
+    color:white;
+}
+
+span.moderate{
+    padding: 3px;
+    background-color: yellow;
+}
+
+span.favorable{
+    padding: 3px;
+    background-color: green;
+    color:white;
+}
